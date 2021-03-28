@@ -3,6 +3,7 @@
     "standard": "^16.0.3"
   },
   "dependencies": {
-    "discord.js": "^12.5.1"
+    "discord.js": "^12.5.1",
+    "readline-sync": "^1.4.10"
   }
 }

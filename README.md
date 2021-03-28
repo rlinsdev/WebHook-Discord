@@ -2,14 +2,13 @@
 
 Packages
 
-
 ## Packages
+npm i discord.js
+npm install readline-sync
 
-## Behavior Driven Development
+## To run
 
-Given – dado um contexto;
-When – quando acontecer um evento;
-Then – então se espera que aconteça algo.
+node discord
 
 ### Prerequisites
 
